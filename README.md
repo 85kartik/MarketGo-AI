@@ -1,4 +1,4 @@
-# MarketGo
+# MarketGo Project
 
 Full-stack shopping app: Express/MongoDB API (`server/`) + Expo/React Native app (`frontend/`).
 
